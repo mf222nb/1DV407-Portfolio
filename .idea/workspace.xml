@@ -32,19 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workshop2.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="workshop2.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/Workshop 2/workshop2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="65" selection-start="226" selection-end="226" vertical-scroll-proportion="0.20623916" vertical-offset="0" max-vertical-offset="577">
+            <state line="25" column="20" selection-start="837" selection-end="837" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workshop1.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="workshop1.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="34" selection-start="198" selection-end="198" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="476">
+            <state line="8" column="68" selection-start="240" selection-end="240" vertical-scroll-proportion="0.24113475" vertical-offset="0" max-vertical-offset="1683">
               <folding />
             </state>
           </provider>
@@ -66,6 +66,7 @@
         <option value="$PROJECT_DIR$/pages/workshop1.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/Workshop 2/workshop2.html" />
+        <option value="$PROJECT_DIR$/pages/Workshop 1/workshop1.html" />
       </list>
     </option>
   </component>
@@ -337,16 +338,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 2/workshop2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="34" selection-start="198" selection-end="198" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="476">
+        <state line="25" column="20" selection-start="837" selection-end="837" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="578">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/Workshop 2/workshop2.html">
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="65" selection-start="226" selection-end="226" vertical-scroll-proportion="0.20623916" vertical-offset="0" max-vertical-offset="577">
+        <state line="8" column="68" selection-start="240" selection-end="240" vertical-scroll-proportion="0.24113475" vertical-offset="0" max-vertical-offset="1683">
           <folding />
         </state>
       </provider>
