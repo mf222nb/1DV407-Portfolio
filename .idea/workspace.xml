@@ -26,16 +26,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="45" selection-start="110" selection-end="110" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="238">
+            <state line="7" column="56" selection-start="182" selection-end="182" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workshop1.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/workshop1.html">
+      <file leaf-file-name="workshop2.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/Workshop 2/workshop2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="34" selection-start="198" selection-end="198" vertical-scroll-proportion="0.24113475" vertical-offset="0" max-vertical-offset="564">
+            <state line="16" column="32" selection-start="513" selection-end="513" vertical-scroll-proportion="0.4714038" vertical-offset="0" max-vertical-offset="577">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workshop1.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="34" selection-start="198" selection-end="198" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
@@ -54,8 +63,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/workshop1.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pages/Workshop 2/workshop2.html" />
       </list>
     </option>
   </component>
@@ -66,7 +76,7 @@
     <option name="width" value="1234" />
     <option name="height" value="736" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -123,6 +133,28 @@
               <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Workshop 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1DV407-Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1DV407-Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Workshop 1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -130,14 +162,22 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PHPLabration2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UMLWS2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Martin\Documents\GitHub\1DV407-Portfolio\pages\Workshop 2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Martin\Documents\GitHub\1DV407-Portfolio\pages\Workshop 1" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -181,11 +221,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -200,6 +240,7 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -207,12 +248,54 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="45" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="34" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="45" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/workshop1.html">
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="34" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="45" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="34" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="45" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="59" selection-start="819" selection-end="819" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="425">
           <folding />
@@ -226,7 +309,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/workshop1.html">
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="59" selection-start="819" selection-end="819" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="425">
           <folding />
@@ -240,7 +323,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/workshop1.html">
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
           <folding />
@@ -249,14 +332,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="45" selection-start="110" selection-end="110" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="238">
+        <state line="7" column="56" selection-start="182" selection-end="182" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="255">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/workshop1.html">
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="34" selection-start="198" selection-end="198" vertical-scroll-proportion="0.24113475" vertical-offset="0" max-vertical-offset="564">
+        <state line="8" column="34" selection-start="198" selection-end="198" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 2/workshop2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="32" selection-start="513" selection-end="513" vertical-scroll-proportion="0.4714038" vertical-offset="0" max-vertical-offset="577">
           <folding />
         </state>
       </provider>
