@@ -26,25 +26,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="56" selection-start="182" selection-end="182" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="255">
+            <state line="7" column="56" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workshop2.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="workshop2.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/Workshop 2/workshop2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="20" selection-start="837" selection-end="837" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="578">
+            <state line="195" column="29" selection-start="7930" selection-end="7930" vertical-scroll-proportion="0.3812825" vertical-offset="3095" max-vertical-offset="6018">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workshop1.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="workshop1.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="68" selection-start="240" selection-end="240" vertical-scroll-proportion="0.24113475" vertical-offset="0" max-vertical-offset="1683">
+            <state line="8" column="68" selection-start="240" selection-end="240" vertical-scroll-proportion="16.346153" vertical-offset="561" max-vertical-offset="1683">
               <folding />
             </state>
           </provider>
@@ -65,8 +65,8 @@
       <list>
         <option value="$PROJECT_DIR$/pages/workshop1.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/pages/Workshop 2/workshop2.html" />
         <option value="$PROJECT_DIR$/pages/Workshop 1/workshop1.html" />
+        <option value="$PROJECT_DIR$/pages/Workshop 2/workshop2.html" />
       </list>
     </option>
   </component>
@@ -163,7 +163,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UMLWS2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjectPHP" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
@@ -207,14 +207,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1234" height="736" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -247,6 +247,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="56" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 2/workshop2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="20" selection-start="837" selection-end="837" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="68" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1683">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="45" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
@@ -333,21 +354,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="56" selection-start="182" selection-end="182" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/Workshop 2/workshop2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="20" selection-start="837" selection-end="837" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="578">
+        <state line="7" column="56" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="255">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="68" selection-start="240" selection-end="240" vertical-scroll-proportion="0.24113475" vertical-offset="0" max-vertical-offset="1683">
+        <state line="8" column="68" selection-start="240" selection-end="240" vertical-scroll-proportion="16.346153" vertical-offset="561" max-vertical-offset="1683">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Workshop 2/workshop2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="195" column="29" selection-start="7930" selection-end="7930" vertical-scroll-proportion="0.3812825" vertical-offset="3095" max-vertical-offset="6018">
           <folding />
         </state>
       </provider>
