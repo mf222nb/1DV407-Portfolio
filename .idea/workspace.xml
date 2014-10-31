@@ -35,7 +35,7 @@
       <file leaf-file-name="workshop2.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/Workshop 2/workshop2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="347" column="9" selection-start="12919" selection-end="12919" vertical-scroll-proportion="10.22357" vertical-offset="0" max-vertical-offset="6035">
+            <state line="8" column="69" selection-start="300" selection-end="300" vertical-scroll-proportion="0.2357019" vertical-offset="0" max-vertical-offset="6086">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="workshop1.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="68" selection-start="240" selection-end="240" vertical-scroll-proportion="16.346153" vertical-offset="561" max-vertical-offset="1683">
+            <state line="81" column="115" selection-start="6200" selection-end="6200" vertical-scroll-proportion="-52.96154" vertical-offset="0" max-vertical-offset="1717">
               <folding />
             </state>
           </provider>
@@ -163,7 +163,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjectPHP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UMLWS2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
@@ -361,14 +361,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/Workshop 1/workshop1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="68" selection-start="240" selection-end="240" vertical-scroll-proportion="16.346153" vertical-offset="561" max-vertical-offset="1683">
+        <state line="81" column="115" selection-start="6200" selection-end="6200" vertical-scroll-proportion="-52.96154" vertical-offset="0" max-vertical-offset="1717">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/Workshop 2/workshop2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="347" column="9" selection-start="12919" selection-end="12919" vertical-scroll-proportion="10.22357" vertical-offset="0" max-vertical-offset="6035">
+        <state line="8" column="69" selection-start="300" selection-end="300" vertical-scroll-proportion="0.2357019" vertical-offset="0" max-vertical-offset="6086">
           <folding />
         </state>
       </provider>
